@@ -9,6 +9,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "0.27.2",
+    "dotenv": "16.0.0",
     "inquirer": "^6.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rotimi-28/command-line-generator.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "bugs": {
+    "url": "https://github.com/Rotimi-28/command-line-generator/issues"
+  },
+  "homepage": "https://github.com/Rotimi-28/command-line-generator#readme"
 }
